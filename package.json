@@ -1,0 +1,24 @@
+{
+  "name": "4-one-more-just-to-be-sure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3005 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zasweted/4-one-more-just-to-be-sure.git"
+  },
+  "keywords": [],
+  "author": "Aleksandr Vasiljev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zasweted/4-one-more-just-to-be-sure/issues"
+  },
+  "homepage": "https://github.com/zasweted/4-one-more-just-to-be-sure#readme",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
